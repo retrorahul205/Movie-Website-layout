@@ -1,0 +1,137 @@
+[
+    {
+      "id": 1,
+      "name": "Spider Man: No Way Home",
+      "poster": "https://cdn.marvel.com/content/1x/snh_online_6072x9000_posed_01.jpg",
+      "type": "Action"
+    },
+    {
+      "id": 2,
+      "name": "Jungle Cruise",
+      "poster": "https://lumiere-a.akamaihd.net/v1/images/p_junglecruise_21740_v2_bb7f0ae4.jpeg",
+      "type": "Adventure"
+    },
+    {
+      "id": 3,
+      "name": "Loki",
+      "poster": "https://cdn.marvel.com/content/1x/online_9.jpg",
+      "type": "Action"
+    },
+    {
+      "id": 4,
+      "name": "Squid Game",
+      "poster": "https://images.ctfassets.net/4cd45et68cgf/6xlqqImDdAfzWKIlaScQxm/7def051f35d6668bd6e6227e354ecc01/EN-US_SG-S2_Primary_Main_RoundandRound-Safe_Vertical_27x40_RGB_PRE.jpg?w=1200",
+      "type": "Gore"
+    },
+    {
+      "id": 5,
+      "name": "The Falcon and The Winter Soldier",
+      "poster": "https://cdn.marvel.com/content/1x/captainamerica.jpg",
+      "type": "Action"
+    },
+    {
+      "id": 6,
+      "name": "Hawkeye",
+      "poster": "https://cdn.marvel.com/content/1x_masonry/anchor_specialod_72x48_clint_v4_sm.jpg",
+      "type": "Action"
+    },
+    {
+      "id": 7,
+      "name": "Agents of S.H.E.I.L.D",
+      "poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXliihkwqMqJzt9Rje24iWcqa89tYEEPFvz2bEWHsZK7TNEsop",
+      "type": "Drama"
+    },
+    {
+      "id": 8,
+      "name": "Flash: Armageddon",
+      "poster": "https://comicbook.com/wp-content/uploads/sites/4/2021/11/79efc021-feb0-4897-9197-c432accb6bbd.jpg",
+      "type": "Sci-Fi"
+    },
+    {
+      "id": 9,
+      "name": "Jumanji: Welcome to the Jungle",
+      "poster": "images/img/movie-1.jpg",
+      "type": "Adventure"
+  },
+  {
+      "id": 10,
+      "name": "Hitman & Bodyguard",
+      "poster": "images/img/movie-2.jpg",
+      "type": "Action"
+  },
+  {
+      "id": 11,
+      "name": "Shang-Chi",
+      "poster": "images/img/movie-3.jpg",
+      "type": "Drama"
+  },
+  {
+      "id": 12,
+      "name": "Eternals",
+      "poster": "images/img/movie-4.jpg",
+      "type": "Action"
+  },
+  {
+      "id": 13,
+      "name": "Spectre",
+      "poster": "images/img/movie-5.jpg",
+      "type": "Action"
+  },
+  {
+      "id": 14,
+      "name": "Money Heist",
+      "poster": "images/img/movie-6.jpg",
+      "type": "Suspense"
+  },
+  {
+      "id": 15,
+      "name": "The Wolverine",
+      "poster": "images/img/movie-7.jpg",
+      "type": "Sci-Fi"
+  },
+  {
+      "id": 16,
+      "name": "Johnny English",
+      "poster": "images/img/movie-8.jpg",
+      "type": "Comedy"
+  },
+    {
+        "id": 17,
+        "name": "Your Name",
+        "video": "Wallpaper Videos/mitsuha-watching-shooting-stars-your-name-moewalls-com.mp4",
+        "release_date": "12th June"
+    },
+    {
+        "id": 18,
+        "name": "Genshin Impact",
+        "video": "Wallpaper Videos/liyue-lantern-rite-genshin-impact-moewalls-com.mp4",
+        "release_date": "9th February"
+    },
+    {
+        "id": 19,
+        "name": "Your Lie in April",
+        "video": "Wallpaper Videos/your-lie-in-april-on-stage-moewalls-com.mp4",
+        "release_date": "1st April"
+    },
+    {
+        "id": 20,
+        "name": "Ghost of Tsushima",
+        "video": "Wallpaper Videos/snowfall-black-myth-wukong-moewalls-com.mp4",
+        "release_date": "30th January"
+    },
+    {
+        "id": 21,
+        "name": "Howl's Moving Castle",
+        "video": "Wallpaper Videos/howl-and-sophie-in-the-flower-field-howls-moving-castle-moewalls-com.mp4",
+        "release_date": "11th September"
+    },
+    {
+        "id": 22,
+        "name": "Attack on Titan",
+        "video": "Wallpaper Videos/statuary-attack-on-titan-moewalls-com.mp4",
+        "release_date": "4th November"
+    }
+
+  ]
+  
+  

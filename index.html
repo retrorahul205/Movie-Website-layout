@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EntertainHub</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="package/swiper-bundle.min.css">
+    <link rel="shortcut icon" href="Wallpapers/—Pngtree—cute cat cat kawaii chibi_15994092.png" type="images/x-icon">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+
+<body>
+    <header>
+        <div class="nav container">
+
+            <!--- Logo --->
+            <a href="index.html" class="logo">
+                <img src="Wallpapers/—Pngtree—cute cat cat kawaii chibi_15994092.png" alt="Logo" class="logo-img">
+                Entertain<span>Hub</span>
+            </a>
+            
+
+            <!--- Search-Box --->
+            <div class="search-box">
+                <input type="search" id="search-input" placeholder="Search movie">
+                <i class='bx bx-search-alt'></i>
+            </div>
+
+            <!--- User --->
+            <a href="#" class="user">
+                <img src="images/square-sukuna.png" alt="user-img" class="user-img">
+            </a>
+
+            <!--- NavBar --->
+            <div class="navbar">
+                <a href="#home" class="nav-link nav-active">
+                    <i class='bx bx-home-smile'></i>
+                    <span class="nav-link-title">Home</span>
+                </a>
+                <a href="#home" class="nav-link">
+                    <i class='bx bxs-hot'></i>
+                    <span class="nav-link-title">Trending</span>
+                </a>
+                <a href="#home" class="nav-link">
+                    <i class='bx bx-compass'></i>
+                    <span class="nav-link-title">Explore</span>
+                </a>
+                <a href="#home" class="nav-link">
+                    <i class='bx bx-tv'></i>
+                    <span class="nav-link-title">Movies</span>
+                </a>
+                <a href="#home" class="nav-link">
+                    <i class='bx bxs-happy-heart-eyes'></i>
+                    <span class="nav-link-title">Favourite</span>
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Home Section Start -->
+    <section class="home container" id="home">
+        <video id="home-video" class="home-video" autoplay loop muted playsinline>
+            <source src="" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+        <div class="home-text">
+            <h1 class="home-title" id="home-title">Loading...</h1>
+            <p id="release-date">Loading...</p>
+            <a href="#" class="watch-btn">
+                <i class='bx bx-right-arrow'></i>
+                <span>Watch the trailer</span>
+            </a>
+        </div>
+    </section>
+    
+    
+    <!-- Home Section End -->
+
+    <!-- Popular-section Start -->
+    <section class="popular container" id="popular">
+        <div class="heading">
+            <h2 class="heading-title">Popular Movies</h2>
+            <!-- Swiper-Buttons -->
+            <div class="swiper-btn">
+                <div class="swiper-button-prev"></div>
+                <div class="swiper-button-next"></div>
+            </div>
+        </div>
+        <!-- Content -->
+        <div class="popular-content swiper">
+            <div class="swiper-wrapper">
+                <!-- Movies will be loaded here dynamically -->
+            </div>
+        </div>
+    </section>
+    <!-- Popular-section End -->
+
+    <!-- Movies-section Start -->
+    <section class="movies container" id="movies">
+        <div class="heading">
+            <h2 class="heading-title">Movies and Shows</h2>
+        </div>
+        <!-- Movies Content -->
+        <div class="movies-content">
+
+        </div>
+    </section>
+    <!-- Movies-section End -->
+
+    <!-- Next-page -->
+    <div class="next-page">
+        <a href="#" class="next-btn">Next Page</a>
+    </div>
+
+    <!-- Copyright -->
+    <div class="copyright">
+        <p>&#169; EntertainHub All Right Reserved</p>
+    </div>
+
+
+    <script src="package/swiper-bundle.min.js"></script>
+    <script src="main.js"></script>
+    <script src="index.js"></script>
+</body>
+
+</html>
